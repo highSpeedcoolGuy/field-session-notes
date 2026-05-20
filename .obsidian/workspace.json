@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f707f1b24232182b",
+        "id": "20f68f88db6e326c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ffe7a0b991350b0",
+            "id": "15e239e0141464b4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-20 17.32.40_0.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-20 17.32.40_0.excalidraw"
+              "title": "Drawing 2026-05-20 17.43.27.excalidraw"
             }
           }
         ]
@@ -178,14 +178,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ffe7a0b991350b0",
+  "active": "5ead92219199948a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md",
+    "day-3.md",
+    "day-2-team-meet.md",
+    "day-1.md",
     "Excalidraw/Drawing 2026-05-20 17.32.40_0.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md",
     "Untitled.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md",
     "Excalidraw"
   ]
 }
