@@ -89,4 +89,7 @@ This is due to the operation of a controlled not gate ``cx`` working immediately
 [Quantum Instruction Set - Computerphile](https://www.youtube.com/watch?v=ZN0lhYU1f5Q&t=293s)
 [What is Quantum Computing - IBM](https://www.youtube.com/watch?v=lt4OsgmUTGI)
 ["But what is quantum computing?" - 3B1B](https://www.youtube.com/watch?v=RQWpF2Gb-gU&t=13s)
+
+### Sites
 [MATH3MA](https://www.math3ma.com/) - for general basic knowledge of low level quantum operations
+[Visualizing Quantum Circuits using python - IBM](https://quantum.cloud.ibm.com/docs/en/guides/visualize-circuits)
