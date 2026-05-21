@@ -1,7 +1,6 @@
 # Guest Speaker: Credera
 
 
-
 # Building Production-Grade Software
 
 > Building Client Relationship -> Collecting Requirements -> Design and Planning -> Development and Implementation -> Deploying to Production

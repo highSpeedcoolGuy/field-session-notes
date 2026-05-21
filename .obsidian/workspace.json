@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20f68f88db6e326c",
+        "id": "f707f1b24232182b",
         "type": "tabs",
         "children": [
           {
-            "id": "15e239e0141464b4",
+            "id": "3ffe7a0b991350b0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md"
+                "file": "learn-qasm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-20 17.43.27.excalidraw"
+              "icon": "lucide-file",
+              "title": "learn-qasm"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46fb704b2137aa30",
@@ -183,17 +186,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5ead92219199948a",
+  "active": "3ffe7a0b991350b0",
   "lastOpenFiles": [
-    "day-3.md",
-    "day-2-team-meet.md",
-    "day-1.md",
-    "Excalidraw/Drawing 2026-05-20 17.32.40_0.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md",
-    "Untitled.md",
-    "Untitled 1.base",
-    "Untitled.base",
+    "learn-qasm.md~",
+    "Pasted image 20260520233506.png",
+    "Pasted image 20260520233440.png",
+    "day-2.md",
+    "learn-qasm.md",
     "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md",
+    "Excalidraw/context-diagram.md",
+    "day-3.md",
+    "Excalidraw/context-diagram",
+    "Excalidraw/Drawing 2026-05-20 17.32.40_0.excalidraw.md",
+    "Untitled.md",
     "Excalidraw"
   ]
 }
