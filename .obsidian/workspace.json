@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "learn-qasm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "learn-qasm"
             }
           },
           {
@@ -201,9 +201,10 @@
   },
   "active": "3ffe7a0b991350b0",
   "lastOpenFiles": [
+    "day-1.md",
+    "README.md",
     "README.md~",
     "Pasted image 20260520233506.png",
-    "README.md",
     "learn-qasm.md",
     "day-3.md",
     "learn-qasm.md~",

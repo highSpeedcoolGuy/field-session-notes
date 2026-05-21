@@ -6,10 +6,12 @@
 
 <!-- mtoc-start -->
 
-* [Day-1 Notes](#day-1-notes)
-  * [day-1](#day-1)
+* [Quick Links to Daily Notes](#quick-links-to-daily-notes)
 
 <!-- mtoc-end -->
 
-### Day-1 Notes
-#### day-1
+
+## Quick Links to Daily Notes
+* [Read Day 1 Notes](./day-1.md)
+* [Read Day 2 Notes](./day-2.md)
+* [Read Day 3 Notes](./day-3.md)
