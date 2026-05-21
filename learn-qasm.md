@@ -73,3 +73,18 @@ This program has either of two results:
 
 This is due to the operation of a controlled not gate ``cx`` working immediately after the creation of a hadamard gate. The Hadamard gate ``h`` defines our quantum bit. And that bit can now either be 0 or 1. 
 
+
+
+
+
+
+
+
+
+
+
+
+## Helpful materials to learn these basics:
+### Videos
+[Quantum Instruction Set - Computerphile](https://www.youtube.com/watch?v=ZN0lhYU1f5Q&t=293s)
+
