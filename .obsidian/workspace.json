@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/context-diagram.md"
+                "file": "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "context-diagram"
+              "title": "Drawing 2026-05-20 17.32.40.excalidraw"
             }
           },
           {
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "46fb704b2137aa30",
@@ -197,8 +197,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ffe7a0b991350b0",
+  "active": "5ead92219199948a",
   "lastOpenFiles": [
+    "Excalidraw/context-diagram.excalidraw.md",
+    "Excalidraw/context-diagram.md",
+    "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md",
     "Excalidraw/Drawing 2026-05-21 14.19.23.excalidraw.md",
     "README.md",
     "day-1-team-meet.md",
@@ -210,9 +213,7 @@
     "learn-qasm.md~",
     "Pasted image 20260520233440.png",
     "day-2.md",
-    "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md",
     "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md",
-    "Excalidraw/context-diagram.md",
     "Excalidraw/context-diagram",
     "Excalidraw/Drawing 2026-05-20 17.32.40_0.excalidraw.md",
     "Untitled.md",
