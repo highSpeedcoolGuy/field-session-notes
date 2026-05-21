@@ -35,8 +35,7 @@
               "title": "day-3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +200,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "65449643da913d6c",
+  "active": "3ffe7a0b991350b0",
   "lastOpenFiles": [
-    "learn-qasm.md",
     "day-3.md",
+    "learn-qasm.md",
     "learn-qasm.md~",
     "Pasted image 20260520233506.png",
     "Pasted image 20260520233440.png",
