@@ -26,5 +26,5 @@ Once that's good you can now move on to connecting to a mines server or gateway,
     > ``` ssh -J username@jumpbox.mines.edu username@server-name.mines.edu ```
     
     > [!NOTE]
-    > The two known servers at Mines for use for students and researches are *isengard* and *wendian*
+    > The two known servers at Mines for use for students and researches are *isengard* and *wendian*.
 
