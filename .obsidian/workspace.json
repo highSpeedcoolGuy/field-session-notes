@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day-5.md",
+                "file": "mines-vpn-in-arch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day-5"
+              "title": "mines-vpn-in-arch"
             }
           },
           {
@@ -201,23 +201,29 @@
   },
   "active": "3ffe7a0b991350b0",
   "lastOpenFiles": [
+    "mines-vpn-in-arch.md~",
+    "Pasted image 20260524104236.png",
+    "Pasted image 20260524103935.png",
+    "learn-qasm.md",
+    "mines-vpn-in-arch.md",
+    "Pasted image 20260520233506.png",
+    "README.md",
+    "day-5.md",
+    "day-5-it-meet.md",
+    "day-5-it-meet",
     "elevator_pitch_feedbacks_submit.txt",
     "day-5.md~",
     "day-3.md",
-    "day-5.md",
     "day-5",
-    "Pasted image 20260520233506.png",
     "day-1-team-meet.md",
     "Excalidraw/context-diagram.excalidraw.md",
     "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md",
     "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md",
     "Excalidraw/Drawing 2026-05-21 14.19.23.excalidraw.md",
     "Pasted image 20260520233440.png",
-    "learn-qasm.md",
     "day-2-team-meet.md",
     "day-1.md",
     "Excalidraw/context-diagram.md",
-    "README.md",
     "README.md~",
     "learn-qasm.md~",
     "day-2.md",
