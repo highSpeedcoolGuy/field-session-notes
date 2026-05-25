@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mines-vpn-in-arch.md",
+                "file": "teamwork-bookclub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mines-vpn-in-arch"
+              "title": "teamwork-bookclub"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "teamwork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,17 +199,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ffe7a0b991350b0",
+  "active": "5ead92219199948a",
   "lastOpenFiles": [
+    "mines-vpn-in-arch.md",
+    "README.md",
+    "final-report-notes.md",
+    "day-5-it-meet.md",
+    "teamwork-bookclub.md",
     "mines-vpn-in-arch.md~",
     "Pasted image 20260524104236.png",
     "Pasted image 20260524103935.png",
     "learn-qasm.md",
-    "mines-vpn-in-arch.md",
     "Pasted image 20260520233506.png",
-    "README.md",
     "day-5.md",
-    "day-5-it-meet.md",
     "day-5-it-meet",
     "elevator_pitch_feedbacks_submit.txt",
     "day-5.md~",

@@ -25,6 +25,10 @@ Once that's good you can now move on to connecting to a mines server or gateway,
 
     > ``` ssh -J username@jumpbox.mines.edu username@server-name.mines.edu ```
     
-    > [!NOTE]
+    [!NOTE]
     > The two known servers at Mines for use for students and researches are *isengard* and *wendian*.
+
+
+More links on connecting to mines vpn.
+[Mines IT - How to connect to global protect vpn](https://helpcenter.mines.edu/TDClient/1946/Portal/KB/Article/154280/How-to-Connect-to-Global-Protect-VPN-using-an-Unmanaged-or-Personal-Computer)
 
