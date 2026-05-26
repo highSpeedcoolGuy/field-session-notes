@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teamwork-bookclub.md",
+                "file": "week-2/day-1-pt2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teamwork-bookclub"
+              "title": "day-1-pt2"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "65449643da913d6c",
   "lastOpenFiles": [
+    "week-2/day-1.md",
+    "teamwork-bookclub.md",
+    "week-2/day-1-pt2.md",
     "week-2",
     "teamwork-bookclub.md~",
     "The Five Dysfunctions of a Team (1).pdf",
@@ -195,7 +198,6 @@
     "2026-05-25.md",
     "day-3.md",
     "Excalidraw/Drawing 2026-05-25 11.36.58.excalidraw.md",
-    "teamwork-bookclub.md",
     "mines-vpn-in-arch.md",
     "README.md",
     "final-report-notes.md",
@@ -222,7 +224,6 @@
     "README.md~",
     "learn-qasm.md~",
     "day-2.md",
-    "Excalidraw/context-diagram",
     "Excalidraw/Drawing 2026-05-20 17.32.40_0.excalidraw.md",
     "Untitled.md"
   ]
