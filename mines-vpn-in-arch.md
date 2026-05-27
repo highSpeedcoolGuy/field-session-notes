@@ -1,5 +1,9 @@
 # Documentation for connecting to mines global protect vpn on Arch
 
+
+# NOTE TO READER: Ignore most of this for now except for the links. I've realized that this documentation is currently for a broken method. I'll have to add another layer for authentication with Duo called gp-saml-gui.
+
+
 1. Install [globalprotect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect#arch-linux--manjaro)
     > ``` yay -S globalprotect-openconnect-git ```
 2. Launch gui
@@ -24,11 +28,24 @@ Once that's good you can now move on to connecting to a mines server or gateway,
 1. If you're doing this from somewhere far from Mines network (which you most likely will be if you're looking at this), you need to use a jumpbox:
 
     > ``` ssh -J username@jumpbox.mines.edu username@server-name.mines.edu ```
-    
+		or 
+		```
+		ssh username@pvm-jumpbox.mines.edu 
+		```
     [!NOTE]
     > The two known servers at Mines for use for students and researches are *isengard* and *wendian*.
+
+
+
 
 
 More links on connecting to mines vpn.
 [Mines IT - How to connect to global protect vpn](https://helpcenter.mines.edu/TDClient/1946/Portal/KB/Article/154280/How-to-Connect-to-Global-Protect-VPN-using-an-Unmanaged-or-Personal-Computer)
 
+
+Once you have connected to Wendian. You'll probably need to setup ssh keys to get access to github 
+
+
+Okay, so a few notes. 
+
+- If you've used isengard before, you don't need the Mines Global Protect VPN if you're already on a Mines network in campus. So apparently, you'll still need to get on this VPN if you want to connect to Wendian regardless of connection status. 

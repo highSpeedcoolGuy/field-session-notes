@@ -18,3 +18,12 @@ Agile / Scrum for this project
 - More kanban style
 - No need for themed sprints
 - Demo and "still" goal-oriented
+
+
+
+Presentations
+- Sprints need more presentation-slide wise
+- While stand ups are informal
+
+
+
