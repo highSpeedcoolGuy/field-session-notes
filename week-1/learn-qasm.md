@@ -29,7 +29,7 @@ measure -
 
 
 
-![[Pasted image 20260520233506.png]]
+![[sample_circuit.png|269]]
 
 Now translating this into QASM:
 

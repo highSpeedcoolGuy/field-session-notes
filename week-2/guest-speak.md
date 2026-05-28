@@ -4,10 +4,10 @@
 ### Company: World Wide Technology
 
 
-Common Trapns
+Common Traps
 Teams Fall into
 
-- Over engineeering early
+- Over engineering early
 - Loudest voice wins
 - Making assumptions
 - Copy without context
@@ -28,3 +28,12 @@ Tool 3: Pro/Con/Tradeoff Table
 
 Tool 4: RACI/"Who Decides?" Map
 - Who's responsible, accountable, consulted, and informed
+
+Tool 5: The "Two-Way Door" Test
+- Very simple deliberation 
+- Two-way door 
+    - Reversible Decision
+    - Decide quickly, with enough discussion. You can change it laer withou disaster. 
+    - Ex: API Naming
+- One way door
+    - 
