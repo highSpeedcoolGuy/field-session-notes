@@ -1,120 +1,41 @@
 {
   "main": {
-    "id": "82cdafa6b5c27807",
+    "id": "85013b983551614d",
     "type": "split",
     "children": [
       {
-        "id": "f707f1b24232182b",
+        "id": "90ba98e7ebc88aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "65449643da913d6c",
+            "id": "863b3d005ff659b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week-2/day-1-pt2.md",
+                "file": "HPC Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day-1-pt2"
-            }
-          },
-          {
-            "id": "05ebe4b455f15db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "final-report-notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "final-report-notes"
-            }
-          },
-          {
-            "id": "874b3a071ec4d748",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "560341578324f3e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week-1/day-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "day-1"
-            }
-          },
-          {
-            "id": "6a9ea72609d6db1d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260524104236.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260524104236"
-            }
-          },
-          {
-            "id": "f5d1a81af96e3774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week-2/Features from hackathon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Features from hackathon"
-            }
-          },
-          {
-            "id": "0546eaefe4020d24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 Quantum Rings Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 3 Quantum Rings Notes"
+              "title": "HPC Setup"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "42037ec06227c01f",
+    "id": "d15d8945ec805b0a",
     "type": "split",
     "children": [
       {
-        "id": "130669c545789e44",
+        "id": "c72c766126e45899",
         "type": "tabs",
         "children": [
           {
-            "id": "5ead92219199948a",
+            "id": "47fafc7592b8de85",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -127,12 +48,12 @@
             }
           },
           {
-            "id": "2213647299b0167f",
+            "id": "608cf99acc83b251",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "teamwork",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +65,7 @@
             }
           },
           {
-            "id": "24be3da7fdd1f3fa",
+            "id": "6eebd837302c58ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -157,24 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "46fb704b2137aa30",
+    "id": "6ce9eadfe542b217",
     "type": "split",
     "children": [
       {
-        "id": "a637adbe2e462c2c",
+        "id": "b84d04c855765cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3beb37ea82f17d",
+            "id": "f636d6ee75a12090",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2975bb4e7bb533b7",
+            "id": "863e483d3e3431e2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "134f9252010a3fb2",
+            "id": "044b44110266c0e0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -217,7 +135,7 @@
             }
           },
           {
-            "id": "53497d1bd2c06483",
+            "id": "3a11c29b59b6504e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -231,18 +149,17 @@
             }
           },
           {
-            "id": "5bdc101a04a9eb07",
+            "id": "a073c661edbae0ba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -265,48 +182,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0546eaefe4020d24",
+  "active": "863b3d005ff659b0",
   "lastOpenFiles": [
-    "week-2/Features from hackathon.md",
-    "Pasted image 20260524104236.png",
-    "week-1/day-1.md",
-    "final-report-notes.md",
-    "week-2/day-1-pt2.md",
-    "Week 3 Quantum Rings Notes.md",
-    "week-2/Week 2 - Quantum Rings Meeting.md",
-    "week-2/Quantum Student Queries.md",
-    "week-2/guest-speak.md",
-    "Slides/WWT.pdf",
-    "Slides",
-    "Pasted image 20260524103935.png",
-    "README.md",
-    "week-1/learn-qasm.md",
-    "week-1/day-2.md",
-    "sample_circuit.png",
-    "Pasted image 20260520233440.png",
-    "Pasted image 20260520233506.png",
-    "mines-vpn-in-arch.md",
-    "week-2/day-1.md",
-    "week-1/day-1-team-meet.md",
-    "week-2/Day 1 - Worknight Notes.md",
-    "week-2/Accuracy.md",
-    "Excalidraw/context-diagram.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-21 14.19.23.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-20 17.32.40.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-20 17.43.27.excalidraw.md",
-    "week-2/guest-speak.md~",
-    "2026-05-25.md",
-    "week-1",
-    "week-1/teamwork-bookclub.md",
-    "The Five Dysfunctions of a Team (1).pdf",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2026-05-25 11.36.58.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-26 22.21.08.excalidraw.md",
-    "week-1/day-3.md",
-    "week-2/tasks-this-week",
-    "Untitled",
-    "Activity Template.xlsx",
-    "Risk Register Worksheet.docx",
-    "week-2"
+    "week-3/MLP Implementation.md",
+    "HPC Setup.md",
+    "Pasted image 20260602200902.png",
+    "week-3/Week 3 Quantum Rings Notes.md",
+    "week-3"
   ]
 }

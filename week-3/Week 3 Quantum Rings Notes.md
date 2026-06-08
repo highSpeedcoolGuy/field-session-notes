@@ -9,8 +9,15 @@
 - Work on better Deliverables
 Entanglement -> Rotation (Increases complexity by a lot more)
 Distance of Entanglement (another feature)
+gate operations <-> Network map 
+Add more features
 
+
+Stretches
+Training Pipeline for the purpose of changing datasets and features easier
+More than training pipelin
 
 
 Clifford Gates
 https://pennylane.ai/compilation/clifford-t-gate-set
+
